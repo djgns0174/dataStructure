@@ -1,0 +1,4 @@
+﻿  SingleListPrac2.c
+C:\Users\sec\Desktop\project\data_structure\SingleListPrac2\SingleListPrac2.c(125,1): warning C4716: 'dequeue': 값을 반환해야 합니다.
+C:\Users\sec\Desktop\project\data_structure\SingleListPrac2\SingleListPrac2.c(129,1): warning C4716: 'inqueue': 값을 반환해야 합니다.
+  SingleListPrac2.vcxproj -> C:\Users\sec\Desktop\project\data_structure\SingleListPrac2\x64\Debug\SingleListPrac2.exe
